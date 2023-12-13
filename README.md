@@ -1,0 +1,2 @@
+# rustBasic
+Study Rust
